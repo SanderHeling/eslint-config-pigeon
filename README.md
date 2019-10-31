@@ -2,8 +2,9 @@
 
 **:bird: O-pigeon-ated eslint configuration.**
 
-This configuration uses the typescript eslint parser with plugins and rules for better structured development but is very opinionated.
-It is brand new so rules stuff will be added while we stumble upon issues.
+This configuration uses the typescript eslint parser with plugins and rules for
+better structured development and is very opinionated.
+It is brand new so rules will be added when we feel the need to.
 
 ## Dependencies / used plugins
 - "@typescript-eslint/eslint-plugin": "2.6.0"
