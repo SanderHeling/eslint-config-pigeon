@@ -121,6 +121,12 @@ module.exports = {
                 next: ['return', 'block', 'block-like'],
             },
         ],
+        '@typescript-eslint/no-empty-interface': [
+            'error',
+            {
+                allowSingleExtends: true,
+            },
+        ],
     },
     overrides: [
         {
@@ -133,6 +139,7 @@ module.exports = {
             files: ['*.d.ts'],
             rules: {
                 '@typescript-eslint/interface-name-prefix': 'off',
+                '@typescript-eslint/no-empty-interface': 'off',
             },
         },
     ],
