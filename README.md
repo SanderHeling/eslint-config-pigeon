@@ -18,7 +18,7 @@ It is brand new so rules will be added when we feel the need to.
 
 ## How to use
 ```sh
-# Install configration
+# Install configuration
 yarn add eslint-config-pigeon -D
 
 # Install peer dependencies
