@@ -1,4 +1,8 @@
 const path = require('path');
+const fs = require('fs');
+
+const appDir = fs.realpathSync(process.cwd());
+const srcDir = path.resolve(appDir, 'src');
 
 module.exports = {
     extends: [
@@ -29,7 +33,7 @@ module.exports = {
         },
         'import/resolver': {
             node: {
-                paths: [path.resolve(__dirname, 'src')],
+                paths: [srcDir],
             },
         },
     },
