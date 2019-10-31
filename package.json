@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pigeon",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "O-pigeon-ated eslint configuration",
   "main": "index.js",
   "repository": "git@github.com:SanderHeling/eslint-config-pigeon.git",
