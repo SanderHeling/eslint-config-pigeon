@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pigeon",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "O-pigeon-ated eslint configuration",
   "main": "index.js",
   "repository": "git@github.com:SanderHeling/eslint-config-pigeon.git",
@@ -21,9 +21,9 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
-    "typescript": "3.6.4",
     "eslint-config-prettier": "6.5.0",
-    "eslint-config-react": "1.1.7"
+    "eslint-config-react": "1.1.7",
+    "typescript": "3.6.4"
   },
   "devDependencies": {
     "install-peers-cli": "2.1.1"
