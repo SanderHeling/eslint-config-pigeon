@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pigeon",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "O-pigeon-ated eslint configuration",
   "main": "index.js",
   "repository": "git@github.com:SanderHeling/eslint-config-pigeon.git",
@@ -12,16 +12,16 @@
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.6.0",
+    "@typescript-eslint/parser": "^2.6.0",
     "eslint": "^6.6.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-prettier": "^3.1.1",
     "eslint-plugin-react": "^7.16.0",
     "eslint-plugin-react-hooks": "^2.2.0",
-    "prettier": "^1.18.2",
-    "typescript": "^3.6.4"
+    "prettier": "^1.18.2"
   },
   "dependencies": {
-    "@typescript-eslint/parser": "2.6.0",
+    "typescript": "3.6.4",
     "eslint-config-prettier": "6.5.0",
     "eslint-config-react": "1.1.7"
   },
