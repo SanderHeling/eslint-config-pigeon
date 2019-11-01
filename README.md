@@ -19,10 +19,10 @@ It is brand new so rules will be added when we feel the need to.
 ## How to use
 ```sh
 # Install configuration
-yarn add eslint-config-pigeon -D
+yarn add eslint-config-pigeon --dev
 
 # Install peer dependencies
-npx install-peerdeps eslint-config-pigeon -D
+npx install-peerdeps eslint-config-pigeon --dev
 
 # Extend config in package.json
 "eslintConfig": {
