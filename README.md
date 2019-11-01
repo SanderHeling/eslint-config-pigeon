@@ -7,14 +7,17 @@ better structured development and is very opinionated.
 It is brand new so rules will be added when we feel the need to.
 
 ## Dependencies / used plugins
-- "@typescript-eslint/eslint-plugin": "2.6.0"
-- "eslint": ">= 5.0.0"
-- "eslint-plugin-import": "2.18.2"
-- "eslint-plugin-prettier": "3.1.1"
-- "eslint-plugin-react": "7.16.0"
-- "eslint-plugin-react-hooks": "2.2.0"
-- "prettier": "1.18.2"
-- "typescript": ">= 3.6.4"
+- "@typescript-eslint/eslint-plugin": "^2.6.0"
+- "@typescript-eslint/parser": "^2.6.0"
+- "eslint": "^6.6.0"
+- "eslint-plugin-import": "^2.18.2"
+- "eslint-plugin-prettier": "^3.1.1"
+- "eslint-plugin-react": "^7.16.0"
+- "eslint-plugin-react-hooks": "^2.2.0"
+- "prettier": "^1.18.2"
+- "eslint-config-prettier": "6.5.0"
+- "eslint-config-react": "1.1.7"
+- "typescript": "3.6.4"
 
 ## How to use
 ```sh
