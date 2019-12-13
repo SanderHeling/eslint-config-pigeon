@@ -25,7 +25,7 @@ It is brand new so rules will be added when we feel the need to.
 yarn add eslint-config-pigeon --dev
 
 # Install peer dependencies
-npx install-peerdeps eslint-config-pigeon --dev
+npx install-peerdeps eslint-config-pigeon -DY
 
 # Extend config in package.json
 "eslintConfig": {
