@@ -10,7 +10,7 @@ It is brand new so rules will be added when we feel the need to.
 - "@typescript-eslint/eslint-plugin": "^2.6.0"
 - "@typescript-eslint/parser": "^2.6.0"
 - "eslint": "^6.6.0"
-- "eslint-plugin-import": "^2.18.2"
+- "eslint-plugin-import": "^2.20.0"
 - "eslint-plugin-prettier": "^3.1.1"
 - "eslint-plugin-react": "^7.16.0"
 - "eslint-plugin-react-hooks": "^2.2.0"
