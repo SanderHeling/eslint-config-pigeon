@@ -21,3 +21,13 @@ npx install-peerdeps eslint-config-pigeon -DY
   ]
 },
 ```
+
+## Upgrade
+To upgrade to the latest version run the following commands:
+```sh
+# Upgrade configuration
+yarn upgrade eslint-config-pigeon --latest
+
+# Upgrade peer dependencies
+npx install-peerdeps eslint-config-pigeon -DY
+```
