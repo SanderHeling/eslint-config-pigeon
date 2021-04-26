@@ -36,10 +36,10 @@ get-stdin@^6.0.0:
   resolved "https://registry.yarnpkg.com/get-stdin/-/get-stdin-6.0.0.tgz#9e09bf712b360ab9225e812048f71fde9c89657b"
   integrity sha512-jp4tHawyV7+fkkSKyvjuLZswblUtz+SQKzSWnBbii16BuZksJlU1wuBYXY75r+duh/llF1ur6oNwi+2ZzjKZ7g==
 
-install-peers-cli@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/install-peers-cli/-/install-peers-cli-2.1.1.tgz#01f88b52a930b7f09e57abb4da874ff9ef83a6b9"
-  integrity sha512-sCphUqbDtlSyv0KYE0tdsLUG/F6wMGR7hr3swkx1sAKJCj4b3hy41vTj0JtxL6pAoi86yGW8i1CCIv8Fg29NAA==
+install-peers-cli@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/install-peers-cli/-/install-peers-cli-2.2.0.tgz#f76f1ec8ac9fa7f920c05743e011554edad85f8d"
+  integrity sha512-scSNvF49HDOLNm2xLFwST23g/OvfsceiA087bcGBgZP/ZNCrvpSaCn5IrWNZ2XYmFFykXF/6J1Zgm+D/JgRgtA==
   dependencies:
     commander "^2.20.0"
     executioner "^2.0.1"
